@@ -55,4 +55,4 @@ The notebook is also available in this workspace as [torchgeo_vhr10_maskrcnn_wor
 - Applications of remote sensing
 - Data download from STAC (SpatioTemporal Asset Catalogs)
 - Geospatial AI techniques (instance segmentation)
-- Hands-on demo with the VHR-10 dataset
+- Hands-on demo with the VHR-10 dataset 
